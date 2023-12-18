@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/firstmetcs/firstmetcs/assets/github-contribution-grid-snake.svg" /></div>
+![snake](https://raw.githubusercontent.com/仓库名/仓库名/output/github-contribution-grid-snake.svg)
 
 <!--
 **firstmetcs/firstmetcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
