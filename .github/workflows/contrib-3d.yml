@@ -10,13 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
