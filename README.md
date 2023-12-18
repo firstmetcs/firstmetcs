@@ -69,6 +69,7 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+![Swift Badge](https://img.shields.io/badge/swift-swift?logo=swift&logoColor=fff&style=flat)
 
 🧰 常用的工具
 
