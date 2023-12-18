@@ -11,6 +11,9 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
