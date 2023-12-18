@@ -22,8 +22,10 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
+          git stash 
           git fetch
           git checkout output
+          git stash pop
           git commit -m "generated"
           git push
 permissions:
