@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/firstmetcs/firstmetcs/assets/github-contribution-grid-snake.svg" /></div>
+
 <!--
 **firstmetcs/firstmetcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
