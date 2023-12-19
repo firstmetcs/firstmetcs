@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://firstmetcs.net/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小F同学祝您今天愉快!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87BFB8&random=false&width=435&lines=To+be%2C+or+not+to+be%3A+that+is+the+question;Welcome+by+FSMT" alt="Typing SVG" />
     </a>
   </div>
 
