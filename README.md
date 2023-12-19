@@ -35,9 +35,10 @@
 
 </td></tr>
 
+<tr><td>
+
 ### 📊 WakaTime
 
-<tr><td>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
