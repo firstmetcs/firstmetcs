@@ -25,7 +25,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://firstmetcs.net/5.06ZF05/img/ava.jpg" />
 
 <p>&emsp;&emsp;This is firstmetcs, also FSMT</p>
 <p>&emsp;&emsp;Major in software engineer</p>
