@@ -30,10 +30,7 @@
 <p>&emsp;&emsp;This is firstmetcs, also FSMT</p>
 <p>&emsp;&emsp;Major in software engineer</p>
 <p>&emsp;&emsp;Now work as a front-end engineer</p>
-<p><strong>&emsp;&emsp;Whether it’s nobler in the mind to suffer.</strong></p>
-<p><strong>&emsp;&emsp;The slings and arrows of outrageous fortune, </strong></p>
-<p><strong>&emsp;&emsp;Or to take arms against a sea of troubles</strong></p>
-<div style="color: transparent;"><strong style="color: transparent;">&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></div>
+<p><strong>&emsp;&emsp;Whether it’s nobler in the mind to suffer. The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles</strong></p>
 
 </td></tr>
 
