@@ -33,7 +33,7 @@
 <p><strong>&emsp;&emsp;Whether it’s nobler in the mind to suffer.</strong></p>
 <p><strong>&emsp;&emsp;The slings and arrows of outrageous fortune, </strong></p>
 <p><strong>&emsp;&emsp;Or to take arms against a sea of troubles</strong></p>
-<p style="color: transparent;"><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p style="color: transparent;"><strong style="color: transparent;">&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
