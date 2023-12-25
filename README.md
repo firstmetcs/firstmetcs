@@ -82,7 +82,7 @@ No Activity Tracked This Week
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+<img src="https://firstmetcs.net/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 Adept at
@@ -128,19 +128,3 @@ No Activity Tracked This Week
     <img alt="github-snake" src="https://raw.githubusercontent.com/firstmetcs/firstmetcs/output/profile-3d-contrib/profile-south-season-animate.svg" />
   </picture>
 </div>
-
-
-<!--
-**firstmetcs/firstmetcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
